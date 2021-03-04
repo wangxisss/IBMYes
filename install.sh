@@ -42,7 +42,7 @@ install(){
     ibmcloud cf install
     ibmcloud cf push
     echo "安装完成。"
-}
+} 
 
 clone_repo
 create_mainfest_file
